@@ -9,4 +9,10 @@ git push -u origin master // -u is the global username  and pushing it to the or
 git add -A // add all the files on the staging area
 git remote add origin <your repo url> // add remote orgin
 git remote -v // to chech origin (fetch and pull)
+git config --global user.name "anay-jain" // setting up a global username 
+git log // shows up all the git commits 
+git revert <hash of that commit> // reset the repo to the previous commit
+
+
+
 
