@@ -1,1 +1,12 @@
 Master 
+git status  // showed in which branch you are ... and the status of the git 
+git branch //  shows up all the bracnch
+git branch <your branch name> // make a branch 
+git checkout // to check on which branch you are and the no of the branches 
+git checkout anay // go to the anay branch 
+git checkout -d anay // deletes the anay branch 
+git push -u origin master // -u is the global username  and pushing it to the origin master 
+git add -A // add all the files on the staging area
+git remote add origin <your repo url> // add remote orgin
+git remote -v // to chech origin (fetch and pull)
+
